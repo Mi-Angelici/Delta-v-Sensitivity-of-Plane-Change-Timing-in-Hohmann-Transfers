@@ -12,5 +12,5 @@ This is an idealized two-body analysis with circular initial and final orbits an
 
 ## Files
 
-* [Read the final paper]([./Δv Sensitivity of Plane-Change Timing in Hohmann Transfers.pdf](https://github.com/Mi-Angelici/Optimal-Plane-Change-Timing-in-Orbital-Transfers/blob/main/%CE%94v%20Sensitivity%20of%20Plane-Change%20Timing%20in%20Hohmann%20Transfers.pdf))
-* [View the Excel calculations]([https://github.com/Mi-Angelici/Optimal-Plane-Change-Timing-in-Orbital-Transfers/blob/main/plane-change-calculations.xlsx](https://github.com/Mi-Angelici/Optimal-Plane-Change-Timing-in-Orbital-Transfers/blob/main/plane-change-calculations.xlsx))
+- [Read the final paper](https://github.com/Mi-Angelici/Optimal-Plane-Change-Timing-in-Orbital-Transfers/blob/main/%CE%94v%20Sensitivity%20of%20Plane-Change%20Timing%20in%20Hohmann%20Transfers.pdf)
+- [Download the Excel calculations](https://github.com/Mi-Angelici/Optimal-Plane-Change-Timing-in-Orbital-Transfers/blob/main/plane-change-calculations.xlsx)
